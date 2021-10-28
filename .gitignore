@@ -1,0 +1,5 @@
+*.log
+error.log
+dir/
+db.accdb
+e1.txt
